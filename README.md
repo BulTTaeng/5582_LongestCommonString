@@ -6,7 +6,7 @@ made by Jaehyeok Choi
 
 ## What is the problem?
 
-![image](https://github.com/Choi-JaeHyeok-21500749/LongestCommonString/blob/main/5582_pro.PNG)
+![image](https://github.com/Choi-JaeHyeok-21500749/5582_LongestCommonString/blob/main/5582_pro.PNG)
 
 ## What Algorithm should I use?
 
